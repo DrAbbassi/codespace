@@ -21,7 +21,6 @@ def main():
         int(reader.rating)
         teams.append(reader)
 
-
     counts = {}
     # TODO: Simulate N tournaments and keep track of win counts
 
